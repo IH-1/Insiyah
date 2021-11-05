@@ -22,19 +22,17 @@ This example is similar to our use of social media, we get a notification close 
 
      The Goal
 
-Use the Arduino input system to help the global community understand the mechanics behind our social media likes.
+Use learnings from Arduino an Processing systems to help the global community understand the mechanics behind our social media likes.
 Reminding the community why it's necessary to take a step back from scrolling every so often. 
 - 
-**Concept** 
-- 
+Concept based on pushing a lever to gain a reward but not in a predictable way. Sometimes you gain something , sometimes you don't but every once in a while it is a great treat. 
+
 + Exposing the system by a system 
 + The outcome will be open-source / available to all 
    + Creating a sense of community through our common struggles of excessive screen time 
    + Actulizing the social media scrolling culture through an exaggerated approach 
-   + Using data collection through Arduino to draw conclusions & raise awarness 
+   + Using data collection through Arduino / generative art to draw conclusions & raise awareness 
 
-   
-      
   
          The Build 
       
@@ -46,7 +44,15 @@ Reminding the community why it's necessary to take a step back from scrolling ev
 | ----------- | ----------- |
 | <img width="200" alt="2 0" src="https://user-images.githubusercontent.com/93743037/140453391-6ac61cd5-5a82-4ce0-8577-96b28b289626.png"> | <img width="200" alt="1 0" src="https://user-images.githubusercontent.com/93743037/140453404-ba2a3422-2a1b-4cb6-8e8f-adbe0d7747dd.png"> |
     
-    
+ Generative Art Tests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
       Be apart of this consciousness movement !
      
    - [ ] Use & share our open-source as a means of education 
