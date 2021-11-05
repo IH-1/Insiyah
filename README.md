@@ -45,7 +45,10 @@ Concept based on pushing a lever to gain a reward but not in a predictable way. 
 Every time a person clicks a button on their keyboard it triggers the system to create a new outcome. The outcome is never the same, each time it is a completely new variation. Furthermore, depending on the method of triggering a response the outcome varies. For example if one were to hold the key down the outcome would result in a flashing cycle (the keys are sensitive and hence the speed of the outcome would depend on the pressure you press the key with) 
 
 
-<img width="400" alt="g art test" src="https://user-images.githubusercontent.com/93743037/140459891-e91ec9ee-7e51-429f-8ba4-ab51d702abb7.png">
+| Code | Test | 
+| ----------- | ----------- |
+|<img width="300" alt="Screen Shot 2021-11-04" src="https://user-images.githubusercontent.com/93743037/140462424-395a3a1b-c056-45b2-b318-f1e9ef407f27.png"> |<img width="300" alt="g art test" src="https://user-images.githubusercontent.com/93743037/140459891-e91ec9ee-7e51-429f-8ba4-ab51d702abb7.png">|
+
  
 https://user-images.githubusercontent.com/93743037/140462174-fc7c80ea-0ebc-4748-91ae-06b3580a3d98.mp4
 
