@@ -14,23 +14,29 @@ A study published by the Association for the Advancement of Artificial Intellige
 
 In 2019, a study out of Michigan State University found that "social media use may negatively impact our decision making. Specifically, it seemed to correlate with an inability to make good decisions in high-risk situations (Mercado, 2020)" 
 
-  
+Why is social Media so attractive?
 
 
+Look at this example: "So, you have a rat pushing a lever and he gets rewarded, but not in a predictable way. Many times, that animal pushes that lever and nothing comes, but every once in a while, it gets a great treat. So the rat keeps pressing and pressing and pressing even though there's not much reinforcement coming because every once in a while, it's just great (Lee, 2014)" 
+This example is similar to our use of social media, we get a notification close the app get another notification we are back on the app, constantly in search for that positive reinforcement. 
 
      The Goal
 
-Use the Arduino input system to help the global social media community understand the mechanics behind our social media likes.
-Reminding the community why it's necessary to take a step back from scrolling every so often
+Use the Arduino input system to help the global community understand the mechanics behind our social media likes.
+Reminding the community why it's necessary to take a step back from scrolling every so often. 
 - 
-**Concept** is based on pushing a lever to gain a reward but not in a predictable way. Sometimes you gain something , sometimes you don't but every once in a while it is a great treat. 
+**Concept** 
 - 
 + Exposing the system by a system 
 + The outcome will be open-source / available to all 
+   + Creating a sense of community through our common struggles of excessive screen time 
+   + Actulizing the social media scrolling culture through an exaggerated approach 
+   + Using data collection through Arduino to draw conclusions & raise awarness 
 
-
-    
-      The Build 
+   
+      
+  
+         The Build 
       
   *The process of creation and testing is still in progress.
   
@@ -43,7 +49,8 @@ Reminding the community why it's necessary to take a step back from scrolling ev
     
       Be apart of this consciousness movement !
      
-   - [ ] Use / share our open-source as a means of education 
+   - [ ] Use & share our open-source as a means of education 
+   - [ ] Add in suggestions and feedback to improve approach 
    - [ ] Try and Limit your scrolling time
    - [ ] Switch of unnecessary notifications
    - [ ] Switch on your human intelligence and govern your choices
